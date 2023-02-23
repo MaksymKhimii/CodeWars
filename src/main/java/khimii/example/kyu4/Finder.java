@@ -1,4 +1,4 @@
-package org.example.kyu4;
+package khimii.example.kyu4;
 
 import java.util.Arrays;
 import java.util.LinkedList;

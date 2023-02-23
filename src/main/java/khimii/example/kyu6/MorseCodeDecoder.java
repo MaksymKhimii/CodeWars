@@ -1,4 +1,4 @@
-package org.example.kyu6;
+package khimii.example.kyu6;
 
 import java.util.HashMap;
 

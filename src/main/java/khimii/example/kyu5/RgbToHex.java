@@ -1,4 +1,4 @@
-package org.example.kyu5;
+package khimii.example.kyu5;
 
 import java.util.Locale;
 

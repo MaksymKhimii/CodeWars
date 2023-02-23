@@ -1,4 +1,4 @@
-package org.example.kyu4;
+package khimii.example.kyu4;
 
 import org.junit.Assert;
 import org.junit.Test;

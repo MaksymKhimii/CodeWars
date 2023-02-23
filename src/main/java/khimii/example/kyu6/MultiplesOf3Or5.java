@@ -1,4 +1,4 @@
-package org.example.kyu6;
+package khimii.example.kyu6;
 
 /** Multiples of 3 or 5 (6 kyu)
  * If we list all the natural numbers below 10

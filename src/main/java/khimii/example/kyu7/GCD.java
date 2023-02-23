@@ -1,4 +1,4 @@
-package org.example.kyu7;
+package khimii.example.kyu7;
 
 /**
  * Greatest common divisor(7 kyu)

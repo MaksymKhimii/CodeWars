@@ -1,4 +1,4 @@
-package org.example.kyu4;
+package khimii.example.kyu4;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
